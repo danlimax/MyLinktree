@@ -1,0 +1,59 @@
+.mainContent{
+  align-items: center;
+  background-image: linear-gradient( 96.5deg,  rgba(39,103,187,1) 10.4%, rgba(16,72,144,1) 87.7% );
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+
+   .socialContent{
+    height: 100%;
+    width: 100%;
+    max-width: 680px;
+    padding: 64px 16px 32px;
+    .profileContent{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      .imgLogo{
+        max-width: 130px;
+        max-height: 130px;
+        border-radius: 999px;
+      }
+      .titleSocial{
+        font-size: 1.5rem;
+        color: #FFFFFF;
+        margin-top: 16px;
+      }
+      .contactTitle{
+        font-size: 1em;
+        color: #FFFFFF;
+        margin-top: 16px;
+      }
+    }  
+    .socialButtons{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      .socialLinks{
+        align-items: center;
+        border: solid #FFFFFF 1px;
+        display: flex;
+        flex-direction: column;
+        padding: 16px 20px;
+        width: 100%;
+        border-radius: 999px;
+        margin-top: 16px;
+      }
+    }
+   }
+      
+}
+
+@media (max-width:980px){
+
+}
+
+@media(min-width:980px){
+
+}
