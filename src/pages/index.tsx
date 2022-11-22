@@ -16,9 +16,9 @@ export default function Home() {
             className={styles.imgLogo}
           />
           <h3 className={styles.titleSocial}>@danlimax</h3>
-          <h4 className={styles.contactTitle}>
+          <p className={styles.contactTitle}>
             Contato: <a href="mailto:">contatodanlimax@gmail.com</a>
-          </h4>
+          </p>
         </div>
         <div className={styles.socialButtons}>
           <a
