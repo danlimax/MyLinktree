@@ -22,7 +22,7 @@ export default function Home() {
         </div>
         <div className={styles.socialButtons}>
           <a
-            href=""
+            href="https://www.betbrx.com?faff=1420"
             className={styles.socialLinks}
             target="_blank"
             rel="noopener noreferrer"
@@ -38,7 +38,7 @@ export default function Home() {
             Twitch
           </a>
           <a
-            href=""
+            href="http://youtube.com/danlimax"
             className={styles.socialLinks}
             target="_blank"
             rel="noopener noreferrer"
@@ -46,7 +46,7 @@ export default function Home() {
             Youtube
           </a>
           <a
-            href=""
+            href="https://www.instagram.com/danlimaax/"
             className={styles.socialLinks}
             target="_blank"
             rel="noopener noreferrer"
@@ -54,7 +54,7 @@ export default function Home() {
             Instagram
           </a>
           <a
-            href=""
+            href="https://www.tiktok.com/@danlimax"
             className={styles.socialLinks}
             target="_blank"
             rel="noopener noreferrer"
@@ -62,7 +62,7 @@ export default function Home() {
             TikTok
           </a>
           <a
-            href=""
+            href="https://discord.gg/7SE3MuXCDB"
             className={styles.socialLinks}
             target="_blank"
             rel="noopener noreferrer"
@@ -70,7 +70,7 @@ export default function Home() {
             Discord
           </a>
           <a
-            href=""
+            href="https://twitter.com/DanLimaaX"
             className={styles.socialLinks}
             target="_blank"
             rel="noopener noreferrer"
@@ -78,7 +78,7 @@ export default function Home() {
             Twitter
           </a>
           <a
-            href=""
+            href="https://www.kooapp.com/profile/danlimax"
             className={styles.socialLinks}
             target="_blank"
             rel="noopener noreferrer"
