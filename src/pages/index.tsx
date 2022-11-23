@@ -17,7 +17,10 @@ export default function Home() {
           />
           <h3 className={styles.titleSocial}>@danlimax</h3>
           <p className={styles.contactTitle}>
-            Contato: <a href="mailto:">contatodanlimax@gmail.com</a>
+            Contato:{" "}
+            <a href="mailto:contatodanlimax@gmail.com">
+              contatodanlimax@gmail.com
+            </a>
           </p>
         </div>
         <div className={styles.socialButtons}>

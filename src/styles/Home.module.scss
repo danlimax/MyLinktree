@@ -52,5 +52,10 @@
   width: 100%;
   border-radius: 999px;
   margin-top: 16px;
+  &:hover{
+    transition: 0.5s ease;
+    background-color: #FFFFFF;
+    color: #1E2330;
+  }
 }
 
