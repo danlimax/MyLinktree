@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <div className={styles.mainContent}>
       <Head>
-        <title>DanLimaX</title>
+        <title>DanLimaX.tv</title>
       </Head>
       <div className={styles.socialContent}>
         <div className={styles.profileContent}>
